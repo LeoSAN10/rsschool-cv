@@ -10,3 +10,4 @@ return true;
 return false; };
 6. no experience
 7. Belarusian State University, student
+8. B1
