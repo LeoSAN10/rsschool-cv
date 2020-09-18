@@ -1,0 +1,25 @@
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 2 auto;
+    border: none;
+    }
+body {
+	background-color: #000000;
+}
+.center {
+    width: 250px; /* Ширина элемента в пикселах */
+    padding: 5px; /* Поля вокруг текста */
+    margin: auto; /* Выравниваем по центру */
+    background: #fc0; /* Цвет фона */
+   }
+ol {
+ 	color: white;
+ }
+.center2 {
+    width: 250px; /* Ширина элемента в пикселах */
+    margin: 0px ; /* Поля вокруг текста */
+    margin: auto; /* Выравниваем по центру */
+    color: white; /* Цвет фона */
+   }
